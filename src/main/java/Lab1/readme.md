@@ -3,6 +3,7 @@ hello hello
 hello 
 hello 
 hello
-## image
 
-![](C:\java\screenshot.png)
+
+## image
+<img src="img/image.png" alt="Image"/>
